@@ -1,12 +1,11 @@
-# web-movies
+# CMS
  # Requirements
  - Node 18+
  - MongoDB +
- - ReactJS 18+
 
 ## Stack
-- Express 14
-- FastApi 0.110.0
+- Express
+- React
 
 # Setup
   ## webfront
